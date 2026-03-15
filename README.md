@@ -39,12 +39,10 @@
 ## 📷 Dashboard Preview
 
 ### Home Dashboard
-
-![Dashboard](screenshots/dashboard_home.png)
+![Home Dashboard](dashboard_home.png)
 
 ### Best & Worst Sellers
-
-![Dashboard](screenshots/dashboard_best_worst.png)
+![Best Sellers](dashboard_best_worst.png)
 
 ---
 
