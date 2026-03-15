@@ -48,20 +48,19 @@
 
 ## 📊 Insights Generated
 
-✔ Classic category contributes the highest revenue
-✔ Large pizza size drives maximum sales
-✔ Weekends show the highest order volume
-✔ Seasonal trends identified through monthly sales analysis
+### ✔ Classic category contributes the highest revenue
+### ✔ Large pizza size drives maximum sales
+### ✔ Weekends show the highest order volume
+### ✔ Seasonal trends identified through monthly sales analysis
 
 ---
 
 ## 🎯 Project Goal
 
-To demonstrate **end-to-end data analysis and business intelligence skills** by transforming raw sales data into actionable insights using **Power BI dashboards**.
+### To demonstrate **end-to-end data analysis and business intelligence skills** by transforming raw sales data into actionable insights using **Power BI dashboards**.
 
 ---
 
-## 👩‍💻 Author
+# ✨ **"Data is not just numbers — it tells the story of decisions, trends, and opportunities waiting to be discovered."**
 
-**Tonuja**
-B.Sc Data Science Student
+---
