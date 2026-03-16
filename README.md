@@ -1,12 +1,12 @@
 # **🍕 Pizza Sales Analysis Dashboard**
 
-##  Project Overview
+# **📊 Project Overview**
 
-### This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting.
+## This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting.
 
 ---
 
-#  **Key Features**
+# **🚀Key Features**
 
 * ##  Revenue and order performance analysis
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 **Tools & Technologies**
+## **🛠Tools & Technologies**
 
 * ###  Python (for data handling)
 * ###  SQL (for KPI queries and analysis)
@@ -30,7 +30,7 @@
 
 ---
 
-##  **Key KPIs**
+##  **📌Key KPIs**
 
 1. ###  Total Revenue
 2. ###  Total Orders
@@ -40,7 +40,7 @@
 
 ---
 
-# 📷 **Dashboard Preview**
+# **📷Dashboard Preview**
 
 ## (A) ***Home Dashboard***
 ![Home Dashboard](dashboard_home.png)
@@ -50,7 +50,7 @@
 
 ---
 
-#  **Insights Generated**
+#  **💡Insights Generated**
 
 ## ✔ Classic category contributes the highest revenue
 ## ✔ Large pizza size drives maximum sales
@@ -65,6 +65,6 @@
 
 ---
 
-# ✨ **"Data is not just numbers — it tells the story of decisions, trends, and opportunities waiting to be discovered."**
+# ✨ ***"Data is not just numbers — it tells the story of decisions, trends, and opportunities waiting to be discovered."***
 
 ---
