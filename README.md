@@ -1,38 +1,42 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
-### This project analyzes pizza sales data using **Power BI** to generate business insights.
-### The dashboard provides an interactive view of revenue performance, product trends, and sales distribution to support **data-driven decision making**.
+### This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 📈 Total Revenue and Order Analysis
-### 📊 Daily and Monthly Sales Trends
-### 🍕 Top 5 and Bottom 5 Selling Pizzas
-### 📦 Sales Distribution by Category and Size
-### 🔮 Revenue Forecasting and Growth Analysis
+### * Revenue and order performance analysis
+
+### * Daily and monthly sales trend visualization
+
+### * Identification of top and bottom performing pizzas
+
+### * Sales distribution analysis by pizza category and size
+
+### * Revenue forecasting using Power BI analytics
 
 ---
 
 ## 🛠 Tools & Technologies
 
-### 🐍 Python (for data handling)
-### 🗄 SQL (for KPI queries and analysis)
-### 📊 Power BI (dashboard development)
-### 📈 Data Visualization
+###  Python (for data handling)
+###  SQL (for KPI queries and analysis)
+###  Power BI (dashboard development)
+###  Data Visualization
+###  Excel/CSV
 
 ---
 
-## 📌 Key KPIs
+##  Key KPIs
 
-### 💰 Total Revenue
-### 🧾 Total Orders
-### 📦 Total Pizzas Sold
-### 📊 Average Order Value
-### 🍕 Average Pizzas per Order
+### * Total Revenue
+### * Total Orders
+### * Total Pizzas Sold
+### * Average Order Value
+### * Average Pizzas per Order
 
 ---
 
@@ -46,7 +50,7 @@
 
 ---
 
-## 📊 Insights Generated
+##  Insights Generated
 
 ### ✔ Classic category contributes the highest revenue
 ### ✔ Large pizza size drives maximum sales
