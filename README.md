@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Dashboard
+# **🍕 Pizza Sales Analysis Dashboard**
 
 ##  Project Overview
 
@@ -6,62 +6,62 @@
 
 ---
 
-##  Key Features
+#  **Key Features**
 
-### * Revenue and order performance analysis
+* ##  Revenue and order performance analysis
 
-### * Daily and monthly sales trend visualization
+* ##  Daily and monthly sales trend visualization
 
-### * Identification of top and bottom performing pizzas
+* ##  Identification of top and bottom performing pizzas
 
-### * Sales distribution analysis by pizza category and size
+* ##  Sales distribution analysis by pizza category and size
 
-### * Revenue forecasting using Power BI analytics
-
----
-
-## 🛠 Tools & Technologies
-
-###  Python (for data handling)
-###  SQL (for KPI queries and analysis)
-###  Power BI (dashboard development)
-###  Data Visualization
-###  Excel/CSV
+* ##  Revenue forecasting using Power BI analytics
 
 ---
 
-##  Key KPIs
+## 🛠 **Tools & Technologies**
 
-### * Total Revenue
-### * Total Orders
-### * Total Pizzas Sold
-### * Average Order Value
-### * Average Pizzas per Order
+* ###  Python (for data handling)
+* ###  SQL (for KPI queries and analysis)
+* ###  Power BI (dashboard development)
+* ###  Data Visualization
+* ###  Excel/CSV
 
 ---
 
-## 📷 Dashboard Preview
+##  **Key KPIs**
 
-### Home Dashboard
+1. ###  Total Revenue
+2. ###  Total Orders
+3. ###  Total Pizzas Sold
+4. ###  Average Order Value
+5. ###  Average Pizzas per Order
+
+---
+
+# 📷 **Dashboard Preview**
+
+## (A) ***Home Dashboard***
 ![Home Dashboard](dashboard_home.png)
 
-### Best & Worst Sellers
+## (B) ***Best & Worst Sellers***
 ![Best Sellers](dashboard_best_worst.png)
 
 ---
 
-##  Insights Generated
+#  **Insights Generated**
 
-### ✔ Classic category contributes the highest revenue
-### ✔ Large pizza size drives maximum sales
-### ✔ Weekends show the highest order volume
-### ✔ Seasonal trends identified through monthly sales analysis
+## ✔ Classic category contributes the highest revenue
+## ✔ Large pizza size drives maximum sales
+## ✔ Weekends show the highest order volume
+## ✔ Seasonal trends identified through monthly sales analysis
 
 ---
 
-## 🎯 Project Goal
+# **🎯 Project Goal**
 
-### To demonstrate **end-to-end data analysis and business intelligence skills** by transforming raw sales data into actionable insights using **Power BI dashboards**.
+## To demonstrate **end-to-end data analysis and business intelligence skills** by transforming raw sales data into actionable insights using **Power BI dashboards**.
 
 ---
 
