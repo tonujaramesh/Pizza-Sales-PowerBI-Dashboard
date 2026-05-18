@@ -2,7 +2,7 @@
 
 # **📊 Project Overview**
 
-## This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting.
+## This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting. Analyzed 21K+ pizza orders and $800K+ revenue using SQL and Power BI to identify sales trends, peak demand periods, and top-performing products.
 
 ---
 
