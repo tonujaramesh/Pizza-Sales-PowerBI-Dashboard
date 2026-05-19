@@ -5,6 +5,11 @@
 ## This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting. Analyzed 21K+ pizza orders and $800K+ revenue using SQL and Power BI to identify sales trends, peak demand periods, and top-performing products.
 
 ---
+## **💼 Business Problem**
+
+## The objective of this project was to analyze pizza sales performance and uncover actionable insights related to customer ordering behavior, sales trends, category performance, and operational KPIs using SQL and Power BI.
+
+---
 
 # **🚀Key Features**
 
@@ -22,7 +27,6 @@
 
 ## **🛠Tools & Technologies**
 
-* ###  Python (for data handling)
 * ###  SQL (for KPI queries and analysis)
 * ###  Power BI (dashboard development)
 * ###  Data Visualization
@@ -52,10 +56,11 @@
 
 #  **💡Insights Generated**
 
-## ✔ Classic category contributes the highest revenue
-## ✔ Large pizza size drives maximum sales
-## ✔ Weekends show the highest order volume
-## ✔ Seasonal trends identified through monthly sales analysis
+## - Generated $817K+ revenue across 21K+ orders
+## - Highest order volume observed during weekends
+## - Large pizzas contributed the highest sales share
+## - Classic category generated maximum revenue contribution
+## - Identified top and bottom performing pizzas using KPI analysis
 
 ---
 
