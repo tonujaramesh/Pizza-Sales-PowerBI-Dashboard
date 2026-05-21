@@ -1,10 +1,10 @@
 # ***🍕 Pizza Sales Analysis Dashboard***
 
-## **1. Executive Summary**
+## 1. Executive Summary
 
-### This project analyzes pizza sales data using SQL and Power BI to generate actionable business insights. The dashboard provides a comprehensive analysis of sales performance, customer ordering behavior, category contribution, and product performance across 12 months of transactional data.
+This project analyzes pizza sales data using SQL and Power BI to generate actionable business insights. The dashboard provides a comprehensive analysis of sales performance, customer ordering behavior, category contribution, and product performance across 12 months of transactional data.
 
-### The analysis was performed on 21K+ orders generating over $817K in revenue, helping uncover sales trends, peak demand periods, and high-performing products.
+The analysis was performed on 21K+ orders generating over $817K in revenue, helping uncover sales trends, peak demand periods, and high-performing products.
 
 ---
 
