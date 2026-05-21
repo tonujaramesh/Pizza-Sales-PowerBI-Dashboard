@@ -1,73 +1,109 @@
-# **🍕 Pizza Sales Analysis Dashboard**
+# ***🍕 Pizza Sales Analysis Dashboard***
 
-# **📊 Project Overview**
+## **1. Executive Summary**
 
-## This project analyzes pizza sales data using **Power BI** to derive meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, including key performance indicators, sales trends, product performance, and revenue forecasting. Analyzed 21K+ pizza orders and $800K+ revenue using SQL and Power BI to identify sales trends, peak demand periods, and top-performing products.
+### This project analyzes pizza sales data using SQL and Power BI to generate actionable business insights. The dashboard provides a comprehensive analysis of sales performance, customer ordering behavior, category contribution, and product performance across 12 months of transactional data.
 
----
-## **💼 Business Problem**
-
-## The objective of this project was to analyze pizza sales performance and uncover actionable insights related to customer ordering behavior, sales trends, category performance, and operational KPIs using SQL and Power BI.
+### The analysis was performed on 21K+ orders generating over $817K in revenue, helping uncover sales trends, peak demand periods, and high-performing products.
 
 ---
 
-# **🚀Key Features**
+## **2. Business Problem**
 
-* ##  Revenue and order performance analysis
-
-* ##  Daily and monthly sales trend visualization
-
-* ##  Identification of top and bottom performing pizzas
-
-* ##  Sales distribution analysis by pizza category and size
-
-* ##  Revenue forecasting using Power BI analytics
+### The objective of this project was to analyze pizza sales performance and identify meaningful insights related to:
+### - Revenue and order trends
+### - Peak sales periods
+### - Product performance
+### - Sales contribution by category and size
+### - Business growth opportunities through KPI analysis
 
 ---
 
-## **🛠Tools & Technologies**
+## **3. Methodology**
 
-* ###  SQL (for KPI queries and analysis)
-* ###  Power BI (dashboard development)
-* ###  Data Visualization
-* ###  Excel/CSV
+### *Data Preparation*
+#### - Collected and processed raw sales transaction data from CSV and Excel files
+#### - Cleaned and structured the dataset for analysis
 
----
+### *SQL Analysis*
+#### - Used SQL aggregation functions to calculate KPIs
+#### - Performed trend analysis and product performance analysis
 
-##  **📌Key KPIs**
-
-1. ###  Total Revenue
-2. ###  Total Orders
-3. ###  Total Pizzas Sold
-4. ###  Average Order Value
-5. ###  Average Pizzas per Order
+### *Power BI Dashboard Development*
+#### - Built interactive dashboards using KPI cards, charts, slicers, and filters
+#### - Created daily and monthly trend visualizations
+#### - Designed product performance analysis dashboards
 
 ---
 
-# **📷Dashboard Preview**
+## **4. Skills Demonstrated**
+### - SQL Querying and Data Analysis
+### - Power BI Dashboard Development
+### - Data Visualization and Storytelling
+### - KPI Analysis and Business Reporting
+### - Trend Analysis and Business Insights
 
-## (A) ***Home Dashboard***
+---
+
+## **5. Key KPIs**
+### - Total Revenue
+### - Total Orders
+### - Total Pizzas Sold
+### - Average Order Value
+### - Average Pizzas per Order
+
+---
+
+## **📷Dashboard Preview**
+
+### (A) ***Home Dashboard***
 ![Home Dashboard](dashboard_home.png)
 
-## (B) ***Best & Worst Sellers***
+### (B) ***Best & Worst Sellers***
 ![Best Sellers](dashboard_best_worst.png)
 
 ---
 
-#  **💡Insights Generated**
+## **7. Results & Business Recommendations**
 
-## - Generated $817K+ revenue across 21K+ orders
-## - Highest order volume observed during weekends
-## - Large pizzas contributed the highest sales share
-## - Classic category generated maximum revenue contribution
-## - Identified top and bottom performing pizzas using KPI analysis
+### *Key Insights*
+#### - Generated over $817K in revenue across 21K+ orders
+#### - Weekend sales showed the highest order volume
+#### - Large-size pizzas contributed the highest sales share
+#### - Classic category generated maximum revenue contribution
+#### - Identified top and bottom performing pizzas using KPI analysis
+
+### *Business Recommendations*
+#### - Increase promotional campaigns during weekends to maximize revenue
+#### - Focus inventory planning on high-performing pizza categories
+#### - Improve or replace underperforming menu items
+#### - Use sales trends to optimize operational planning
 
 ---
 
-# **🎯 Project Goal**
+## **8. Tools & Technologies**
+#### - Power BI
+#### - SQL
+#### - Excel / CSV
+#### - Data Visualization
+#### - Business Intelligence
 
-## To demonstrate **end-to-end data analysis and business intelligence skills** by transforming raw sales data into actionable insights using **Power BI dashboards**.
+---
 
+## **9. Future Improvements**
+### Potential future enhancements for this project include:
+#### - Customer segmentation analysis
+#### - Recommendation system integration
+#### - Advanced forecasting using Machine Learning
+#### - Delivery and operational performance analysis
+
+---
+
+## 10. Author
+### **Tonuja**  
+#### B.Sc. Data Science Student
+
+---
 ---
 
 # ✨ ***"Data is not just numbers — it tells the story of decisions, trends, and opportunities waiting to be discovered."***
